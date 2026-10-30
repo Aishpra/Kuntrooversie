@@ -1,0 +1,7 @@
+# Only the encrypted archive belongs in this public repository.
+*.sql
+*.zip
+wp-config.php
+*PASSWORD*
+*.cnf
+site/

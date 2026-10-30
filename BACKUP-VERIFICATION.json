@@ -1,0 +1,14 @@
+{
+  "CreatedUtc": "2026-10-30T05:45:45.6622804Z",
+  "Archive": "kuntroversie-full-site-private.zip",
+  "ArchiveBytes": 369658472,
+  "ArchiveSHA256": "14C8F266580C24B30A29E208FE64DB4D5748C817991C68519D4907E3C77A1BB7",
+  "SiteFiles": 15886,
+  "UploadFiles": 243,
+  "DatabaseTables": 53,
+  "ElementorDocuments": 51,
+  "VerifiedEntries": 15889,
+  "Verification": "PASS: all ZIP entries decompressed and matched SHA256 manifests; database independently restored and compared",
+  "Sensitive": true,
+  "Encrypted": false
+}
